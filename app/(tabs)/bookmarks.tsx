@@ -4,7 +4,7 @@ import { View, Text, StyleSheet } from "react-native";
 const Page = () => {
   return (
     <View style={styles.container}>
-      <Text>he i'm hemn software</Text>
+      <Text>he i'm hemn software in book marks</Text>
     </View>
   );
 };
